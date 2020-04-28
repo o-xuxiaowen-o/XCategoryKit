@@ -2,8 +2,8 @@
 //  XViewController.m
 //  XCategoryKit
 //
-//  Created by 972510000@qq.com on 04/29/2020.
-//  Copyright (c) 2020 972510000@qq.com. All rights reserved.
+//  Created by o-xuxiaowen-o on 04/29/2020.
+//  Copyright (c) 2020 o-xuxiaowen-o. All rights reserved.
 //
 
 #import "XViewController.h"

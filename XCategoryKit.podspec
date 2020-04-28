@@ -21,22 +21,22 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/972510000@qq.com/XCategoryKit'
+  s.homepage         = 'https://github.com/o-xuxiaowen-o/XCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '972510000@qq.com' => 'o-xuxiaowen-o@qq.com' }
-  s.source           = { :git => 'https://github.com/972510000@qq.com/XCategoryKit.git', :tag => s.version.to_s }
+  s.author           = { 'o-xuxiaowen-o' => 'o-xuxiaowen-o@qq.com' }
+  s.source           = { :git => 'https://github.com/o-xuxiaowen-o/XCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
 
-  s.source_files = 'XCategoryKit/Classes/**/*'
+  s.source_files = 'XCategoryKit/Classes/*'
   
   # s.resource_bundles = {
   #   'XCategoryKit' => ['XCategoryKit/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  # s.public_header_files = 'Pod/Classes/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
