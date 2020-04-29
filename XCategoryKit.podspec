@@ -19,8 +19,6 @@ Pod::Spec.new do |s|
 
   #s.description      = <<-DESC
   s.description  = "整理一下分类"
-TODO: Add long description of the pod here.
-                       DESC
 
   s.homepage         = 'https://github.com/o-xuxiaowen-o/XCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
