@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XCategoryKit'
-  s.version          = '1.0.5'
+  s.version          = '1.0.6'
   s.summary          = '尽可能包含所有分类'
 
 # This description is used to generate tags and improve search results.
