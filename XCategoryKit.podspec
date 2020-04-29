@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XCategoryKit'
-  s.version          = '0.1.3'
-  s.summary          = 'A short description of XCategoryKit.'
+  s.version          = '0.1.4'
+  s.summary          = '尽可能包含所有分类'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,7 +17,8 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
+  #s.description      = <<-DESC
+  s.description  = "整理一下分类"
 TODO: Add long description of the pod here.
                        DESC
 
@@ -28,7 +29,7 @@ TODO: Add long description of the pod here.
   s.source           = { :git => 'https://github.com/o-xuxiaowen-o/XCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '10.0'
 
   s.source_files = 'XCategoryKit/Classes/*'
   
