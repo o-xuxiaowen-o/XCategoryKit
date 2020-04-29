@@ -3,11 +3,9 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'XCategoryKit_Example' do
-  pod 'XCategoryKit', :path => '../'
+  #pod 'XCategoryKit', :path => '../'
 
   target 'XCategoryKit_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase'
+    #inherit! :search_paths
   end
 end
