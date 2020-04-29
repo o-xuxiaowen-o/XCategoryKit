@@ -3,7 +3,7 @@
 //  XCategoryKit_Example
 //
 //  Created by WenQiangXu on 2020/4/29.
-//  Copyright © 2020 972510000@qq.com. All rights reserved.
+//  Copyright © 2020 o-xuxiaowen-o. All rights reserved.
 //
 
 #import "NSString+XBase64.h"

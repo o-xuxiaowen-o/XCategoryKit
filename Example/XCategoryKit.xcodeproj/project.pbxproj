@@ -203,7 +203,6 @@
 				64D1D56F8A81558F71E6D8BA /* Pods-XCategoryKit_Example-XCategoryKit_Tests.debug.xcconfig */,
 				C306DFAE656835D1E5677B39 /* Pods-XCategoryKit_Example-XCategoryKit_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -255,7 +254,7 @@
 			attributes = {
 				CLASSPREFIX = X;
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = "972510000@qq.com";
+				ORGANIZATIONNAME = "o-xuxiaowen-o";
 				TargetAttributes = {
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
