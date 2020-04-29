@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XCategoryKit'
-  s.version          = '0.1.4'
+  s.version          = '0.1.5'
   s.summary          = '尽可能包含所有分类'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   #s.description      = <<-DESC
-  s.description  = "整理一下分类"
+  s.description  = "整理一下分类,然后描述字数低了还要报警告,你怎么这么厉害"
 
   s.homepage         = 'https://github.com/o-xuxiaowen-o/XCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/o-xuxiaowen-o/XCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '8.0'
 
   s.source_files = 'XCategoryKit/Classes/*'
   
